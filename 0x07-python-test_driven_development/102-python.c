@@ -1,6 +1,6 @@
 /*
  * File: 102-python.c
- * Auth: Brennan D Baraban
+ * Z Mkize
  */
 
 #include "Python.h"

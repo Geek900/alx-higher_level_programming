@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-matrix_mul.py
-# Z Mkize
+# Zama Mkize
 """Defines a matrix multiplication function."""
 
 
